@@ -1,0 +1,7 @@
+pytest==7.2.2
+pytest-django==4.5.2
+pytest-testdox==3.0.1
+asgiref==3.6.0
+Django==4.1.7
+sqlparse==0.4.3
+tzdata==2023.3
